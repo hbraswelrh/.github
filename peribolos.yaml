@@ -70,6 +70,20 @@ orgs:
     docs:
       description: Documentation
     teams:
+      complytime-content:
+        description: Managing gemara content at the ComplyTime org-level. Includes admin privileges for complete management of the project.
+        privacy: closed
+        admins:
+          - hbraswelrh
+          - jpower432
+          - marcusburghardt
+          - jflowers
+        members:
+          - gvauter
+          - sonupreetam
+          - trevor-vaughan
+        repos:
+          complytime-policies: write
       security-managers:
         description: Enterprise security manager team
         privacy: closed
