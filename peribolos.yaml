@@ -71,13 +71,13 @@ orgs:
       description: Documentation
     teams:
       complytime-content:
-        description: Managing gemara content at the ComplyTime org-level. Includes admin privileges for complete management of the project.
+        description: Managing gemara content at the ComplyTime org-level. Includes admin privileges for complete management of the project. Gemara Guidance Catalogs, Control Catalogs, and Mapping Documents will be managed by this team.
         privacy: closed
         admins:
           - hbraswelrh
           - jpower432
-          - marcusburghardt
           - jflowers
+	  - marcusburghardt
         members:
           - gvauter
           - sonupreetam
